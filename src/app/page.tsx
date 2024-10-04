@@ -24,7 +24,7 @@ export default function Home() {
                 <h3 className="text-xl mb-4 text-neutral-900">Card {item}</h3>
                 <p className="text-neutral-900">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 <button className="mt-4 bg-blue-500 text-white py-2 px-4 rounded">
-                  Saiba Mais
+                  Saiba Mais 
                 </button>
               </div>
             ))}
