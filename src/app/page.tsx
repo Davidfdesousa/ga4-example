@@ -23,7 +23,7 @@ export default function Home() {
               <div key={item} className="bg-white shadow-lg p-6 rounded-lg">
                 <h3 className="text-xl mb-4 text-neutral-900">Card {item}</h3>
                 <p className="text-neutral-900">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est!</p>
-                <button className="mt-4 bg-blue-500 text-white py-2 px-4 rounded">
+                <button className="mt-4 bg-blue-500 text-white py-2 px-4 rounded btn-saiba-mais">
                   Saiba Mais 
                 </button>
               </div>
