@@ -35,7 +35,7 @@ export default function Home() {
         <section className="bg-gray-100 p-10 text-center text-neutral-900">
           <h2 className="text-2xl mb-4">Mais Informações</h2>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est!
+            Lorem ipsum, dolor sit amet <a href="#"> consectetur</a> adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est!
           </p>
         </section>
       </main>
