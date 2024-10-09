@@ -1,3 +1,5 @@
+import MyButton from "./button";
+
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
@@ -39,6 +41,7 @@ export default function Home() {
             Lorem ipsum, dolor sit amet <a href="#"> consectetur</a> adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est!e? Delectus, itaque est!
            
           </p>
+          <MyButton />
         </section>
       </main>
 
