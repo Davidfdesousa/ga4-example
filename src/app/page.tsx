@@ -37,11 +37,7 @@ export default function Home() {
           <p>
             Lorem ipsum, dolor sit amet <a href="#"> consectetur</a> adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est! e? Delectus, itaque est!
             Lorem ipsum, dolor sit amet <a href="#"> consectetur</a> adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est!e? Delectus, itaque est!
-            Lorem ipsum, dolor sit amet <a href="#"> consectetur</a> adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est!e? Delectus, itaque est!
-            Lorem ipsum, dolor sit amet <a href="#"> consectetur</a> adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est!e? Delectus, itaque est!
-            Lorem ipsum, dolor sit amet <a href="#"> consectetur</a> adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est! e? Delectus, itaque est!
-            Lorem ipsum, dolor sit amet <a href="#"> consectetur</a> adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est!e? Delectus, itaque est! 
-            Lorem ipsum, dolor sit amet <a href="#"> consectetur</a> adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est!e? Delectus, itaque est!
+           
           </p>
         </section>
       </main>
