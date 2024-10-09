@@ -25,3 +25,13 @@ body {
     text-wrap: balance;
   }
 }
+
+section{
+  height: 400px;
+}
+
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}

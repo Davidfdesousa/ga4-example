@@ -22,7 +22,7 @@ export default function Home() {
             {[1, 2, 3].map((item) => (
               <div key={item} className="bg-white shadow-lg p-6 rounded-lg">
                 <h3 className="text-xl mb-4 text-neutral-900">Card {item}</h3>
-                <p className="text-neutral-900">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <p className="text-neutral-900">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est!</p>
                 <button className="mt-4 bg-blue-500 text-white py-2 px-4 rounded">
                   Saiba Mais 
                 </button>
@@ -35,8 +35,7 @@ export default function Home() {
         <section className="bg-gray-100 p-10 text-center text-neutral-900">
           <h2 className="text-2xl mb-4">Mais Informações</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel
-            sapien ac arcu.
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum commodi, iste quo, temporibus totam consequuntur ipsa incidunt aut qui nihil hic recusandae placeat laboriosam soluta assumenda sapiente? Delectus, itaque est!
           </p>
         </section>
       </main>
